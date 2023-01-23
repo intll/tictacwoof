@@ -28,7 +28,7 @@ The JavaFX19 SDK is available <a href = "https://gluonhq.com/products/javafx/">h
 <br>
 This program uses XAMPP as a dummy server for the database connection. Please import the following .sql file to create the necessary database structure in phpMyAdmin: <a href = "https://github.com/intll/collegework/blob/main/tictacwoof.sql">SQL File</a> 
 <br>
-Download the release here:
+Download the latest release here: ![GitHub release (latest by date)](https://img.shields.io/github/v/release/intll/tictacwoof?style=for-the-badge)
 
 <h2> 2. Eclipse IDE Setup </h2>
 <h2> 3. Running the File </h2>
