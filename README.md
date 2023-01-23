@@ -12,7 +12,7 @@ TicTacWoof is an open source tic-tac-toe game with a twist. Instead of a measly 
 <h2> 3. Dogs with... abilities? </h2>
 
 <hr>
-<h1> Build Guide for Develo0pers </h1>
+<h1> Build Guide for Developers </h1>
 <h2> 1. Prerequisites </h2>
 <h2> 2. Eclipse IDE Setup </h2>
 <h2> 3. Running the File </h2>
