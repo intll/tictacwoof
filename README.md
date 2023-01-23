@@ -20,6 +20,13 @@ Now, now, who says that dogs are dumb creatures? Not in TicTacWoof of course! Th
 <hr>
 <h1> Build Guide for Developers </h1>
 <h2> 1. Prerequisites </h2>
+This program requires a MySQL database connection and JavaFX19 to run.  
+<br>
+The .jar used to connect the databse is available <a href = "https://dev.mysql.com/downloads/connector/j/">here.</a>  
+<br>
+The JavaFX19 SDK is available <a href = "https://gluonhq.com/products/javafx/">here.</a>  
+<br>
+This program uses XAMPP as a dummy server for the database connection. Please import the following .sql file to create the necessary database structure in phpMyAdmin: <a href = "https://github.com/intll/collegework/blob/main/tictacwoof.sql">SQL File</a>  
 <h2> 2. Eclipse IDE Setup </h2>
 <h2> 3. Running the File </h2>
 
