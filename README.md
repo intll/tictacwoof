@@ -8,9 +8,15 @@ TicTacWoof is an open source tic-tac-toe game with a twist. Instead of a measly 
 
 <h1> Featured Twists </h1>
 <h2> 1. An Epic 5x5 Grid to Play On! </h2>
-<h2> 2. Gacha System with Cute Fluffy Doggos! </h2>
-<h2> 3. Dogs with... abilities? </h2>
+<img src = "https://github.com/intll/collegework/blob/main/GameScene.png" height = 250px>
+3x3 is boring, why not do 5x5? The bigger, the better! Take control of a huge play field and find the proper tactics to take down your enemy. Be careful with the secret powerful <em>doggo skills</em> that every doggo can do. <em> P.S. did we mention that the doggos are cute?</em>
 
+<h2> 2. Gacha System with Cute Fluffy Doggos! </h2>
+<img src = "https://github.com/intll/collegework/blob/main/WishAWoof.png" height = 250px>
+Bet your luck by wishing for these cute little mutts! Spend your hard-earned corgions and treats to get a chance of taking these adorable creatures home (read:  inventory). <em> Personally, Samoyeds are subjectively objectively the cutest - intll </em>
+<h2> 3. Dogs with... abilities? </h2>
+<img src = "https://github.com/intll/collegework/blob/main/Skills.gif" height = 250px>
+Now, now, who says that dogs are dumb creatures? Not in TicTacWoof of course! The dogs have skills and abilities that can turn the tide against your opponent (or yourself if you're not careful...). From randomly switching your pieces to the Pug's ultimate skill that hides the board, why not give it a try and see if a tactic is good for you?
 <hr>
 <h1> Build Guide for Developers </h1>
 <h2> 1. Prerequisites </h2>
