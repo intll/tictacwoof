@@ -20,6 +20,8 @@ TicTacWoof is an open source tic-tac-toe game with a twist. Instead of a measly 
 
 <hr>
 <h1> Changelog </h1>
+<h2> 0.1a </h2>
+- Initial Commit
 
 
 
