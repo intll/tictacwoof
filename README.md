@@ -29,7 +29,7 @@ The JavaFX19 SDK is available <a href = "https://gluonhq.com/products/javafx/">h
 This program uses XAMPP as a dummy server for the database connection. Please import the following .sql file to create the necessary database structure in phpMyAdmin: <a href = "https://github.com/intll/collegework/blob/main/tictacwoof.sql">SQL File</a> 
 <br>
 <br>
-Download the latest release here:
+Download the latest release here (please choose the .zip titled TicTacWoof[VERSION])
 <br>
 <a href = "https://github.com/intll/tictacwoof/releases/latest"><img src = "https://img.shields.io/github/v/release/intll/tictacwoof?style=for-the-badge" </img></a>
 
