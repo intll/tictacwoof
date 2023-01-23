@@ -34,7 +34,12 @@ Download the latest release here (please choose the .zip titled TicTacWoof[VERSI
 <a href = "https://github.com/intll/tictacwoof/releases/latest"><img src = "https://img.shields.io/github/v/release/intll/tictacwoof?style=for-the-badge" </img></a>
 
 <h2> 2. Eclipse IDE Setup </h2>
+To run this project, simply extract the download .zip file and then choose File -> Open Projects From Filesystem in Eclipse, click the extracted folder and voila! The project is now in your Eclipse IDE. For the next step, right click on the project folder and then click Properties -> Java Build Path, and then proceed to edit the locations of the aforementioned prerequisites, such as the JavaFX SDK, and the my-sql connector. 
+
+Note that SceneBuilder is used to create the .fxml files, please install it if a UI preview is desired. 
+
 <h2> 3. Running the File </h2>
+Simply make sure the server is running, and then click F11, and TicTacWoof will be built!
 
 
 <hr>
