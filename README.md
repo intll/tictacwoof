@@ -26,7 +26,10 @@ The .jar used to connect the databse is available <a href = "https://dev.mysql.c
 <br>
 The JavaFX19 SDK is available <a href = "https://gluonhq.com/products/javafx/">here.</a>  
 <br>
-This program uses XAMPP as a dummy server for the database connection. Please import the following .sql file to create the necessary database structure in phpMyAdmin: <a href = "https://github.com/intll/collegework/blob/main/tictacwoof.sql">SQL File</a>  
+This program uses XAMPP as a dummy server for the database connection. Please import the following .sql file to create the necessary database structure in phpMyAdmin: <a href = "https://github.com/intll/collegework/blob/main/tictacwoof.sql">SQL File</a> 
+<br>
+Download the release here:
+
 <h2> 2. Eclipse IDE Setup </h2>
 <h2> 3. Running the File </h2>
 
